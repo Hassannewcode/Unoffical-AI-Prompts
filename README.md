@@ -13,6 +13,8 @@ Understanding the nature, boundaries, and limitations of these prompts is crucia
 
 | Model / Architecture | Status / Type | File Link |
 | :--- | :--- | :--- |
+| **Gemini 3.5<br>Flash** | Popular<br>AI | [View<br>Prompt](./Google/Gemini%203.5%20Flash.md) |
+| **Mimo 2.5** | Google<br>Series | [View<br>Prompt](./Google/Mimo%202.5.md) |
 | **Gemini 2.5<br>Flash** | Popular<br>AI | [View<br>Prompt](./Google/Gemini%202.5%20Flash.md) |
 | **Gemini 2.5<br>Pro** | *Uncon-<br>firmed* | [View<br>Prompt](./Google/Gemini%202.5%20Pro.md) |
 | **Gemma<br>27B-it** | Popular<br>AI | [View<br>Prompt](./Google/Gemma%2027B-it.md) |
@@ -37,4 +39,3 @@ Understanding the nature, boundaries, and limitations of these prompts is crucia
 If you would like to request a specific AI model or contribute to this repository, please submit your entry via the `request.md` file. 
 * If you know the precise technical version, please include the full model identifier.
 * If the exact model version is unknown, provide the primary public name of the AI platform or service.
----
